@@ -6,7 +6,7 @@ Assignment A
 
 Given this script:
 
-OP_DUP OP_HASH160 </PubKeyHash> OP_EQUALVERIFY OP_CHECKSIG
+OP_DUP OP_HASH160 \<PubKeyHash\> OP_EQUALVERIFY OP_CHECKSIG
 
 Tasks:
 
