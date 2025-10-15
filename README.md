@@ -5,8 +5,8 @@ Assignment A
 
 Given this script:
 OP_DUP OP_HASH160 <PubKeyHash> OP_EQUALVERIFY OP_CHECKSIG
-Tasks:
 
+Tasks:
 Break down each opcode's purpose
 Create a diagram showing data flow
 Identify what happens if signature verification fails
