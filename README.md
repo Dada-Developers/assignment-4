@@ -1,6 +1,7 @@
 # assignment-4
 Bitcoin Scripting
 
+
 Assignment A
 
 Given this script:
@@ -16,6 +17,7 @@ Create a diagram showing data flow
 Identify what happens if signature verification fails
 
 Explain the security benefits of hash verification
+
 
 
 Assignment B
